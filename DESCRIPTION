@@ -1,0 +1,11 @@
+Package: rusiaplayers
+Title: Query and plot statistics from football players at Rusia Fifa World Cup 2018
+Version: 0.0.0.9000
+Authors@R: person("Gregorio", "Iraola", email = "giraola@pasteur.edu.uy", role = c("aut", "cre"))
+Description: Query and plot statistics from football players at Rusia Fifa World Cup 2018.
+Depends:
+    R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
